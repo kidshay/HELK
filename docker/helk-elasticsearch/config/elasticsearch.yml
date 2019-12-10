@@ -54,7 +54,7 @@
 #
 #network.host: localhost
 #network.host: ["localhost", "172.18.0.2"]
-network.host: 0.0.0.0
+network.host: 127.0.0.1
 #
 # Set a custom port for HTTP:
 #
